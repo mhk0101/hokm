@@ -1,0 +1,7 @@
+{
+  "name": "حکم‌چی",
+  "description": "بازی آنلاین چهار نفره حکم به زبان فارسی با سرور اختصاصی، اتاق خصوصی، جدول رده‌بندی و تم‌های متنوع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
